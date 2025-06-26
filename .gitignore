@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+env/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Future: AWS credentials and keys
+*.pem
+.aws/
+config.ini
+secrets.json
+
+# Environment variables
+.env.local
+.env.production
